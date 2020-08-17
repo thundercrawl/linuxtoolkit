@@ -1,1 +1,2 @@
 https://blog.csdn.net/qq_35720307/article/details/87724172
+https://www.linuxtechi.com/install-configure-kubernetes-ubuntu-18-04-ubuntu-18-10/
